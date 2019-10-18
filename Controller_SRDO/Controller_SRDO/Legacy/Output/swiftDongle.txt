@@ -1,0 +1,135 @@
+Data->Connecting to socket server... port 3000
+Command->Connecting to socket server... port 2000
+Command->Connected to host: 10.10.10.1 and port 2000
+> 
+Data->Connected to host: 10.10.10.1 and port 3000
+Setting default baud...
+Command->Transmit: set uart.baud 0 9600
+
+Command->Transmit: uart_update 0
+
+Command->Transmit: get uart.baud 0
+
+Data->Received (0): 1b 5b 48 31 3a 47 45 43 42 20 20 20 20 
+Set OK
+> 
+Success
+> 9600
+> 
+RETRRRRRYRYRYYR
+Dongle Break Start...
+Data->Transmit: M
+Data->Received (0): 20 20 20 20 20 0d 0a 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 1b 5b 48 31 3a 47 45 43 42 20 20 20 
+Command->Transmit: uart_break 17 uart0 100
+
+Data->Received (0): 20 20 20 20 20 20 20 0d 0a 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 1b 5b 48 
+Data->Received (0): 31 3a 47 45 43 42 20 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 0d 0a 20 20 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 20 20 20 20 
+Success
+> 
+Data->Received (0): 1b 5b 48 31 3a 47 45 43 42 20 20 20 20 20 20 20 20 20 20 0d 0a 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 20 20 20 20 20 20 20 1b 5b 
+Data->Received (0): 65 
+Data->Received (0): 1b 
+Data->Received (0): 5b 48 31 3a 47 45 43 42 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 20 0d 0a 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 20 
+Data->Received (0): 1b 5b 48 31 3a 47 45 43 42 20 20 
+Data->Received (0): 20 20 20 20 20 20 20 20 0d 0a 20 20 20 
+Data->Received (0): 20 20 20 20 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 1b 5b 
+Data->Received (0): 48 31 3a 47 45 43 42 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 0d 0a 20 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 1b 5b 48 
+Data->Received (0): 31 3a 47 45 43 42 20 20 20 20 20 20 20 20 
+Data->Received (0): 20 20 0d 0a 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 20 20 20 
+Data->Received (0): 1b 5b 48 31 3a 47 45 
+Data->Received (0): 43 42 20 20 20 20 20 20 20 20 20 20 0d 
+Data->Transmit (0): 0d 
+Data->Received (0): 0a 20 20 20 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 20 
+Data->Received (0): 1b 5b 48 31 3a 47 45 43 
+Data->Received (0): 42 20 20 20 20 20 20 20 20 20 20 0d 0a 
+Data->Received (0): 20 20 20 20 20 20 20 20 20 20 20 20 20 
+Data->Received (0): 20 20 20 
+Data->Transmit: MM
+Dongle Break Done...
+SVT Logon...
+Receive State: 1
+Data->Transmit (1): 0d 
+Data->Received (1): 1b 5b 48 31 3a 47 45 43 42 20 20 20 20 
+Data->Received (1): 20 20 20 20 20 20 0d 0a 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+Data->Transmit (1): 1b 5b 79 
+Data->Received (1): 1b 5b 79 
+SVT Logon.. Response recieved
+Receive State: 2
+Setting GECB REM baud rate...
+Command->Transmit: set uart.baud 0 115200
+
+Command->Transmit: uart_update 0
+
+Command->Transmit: get uart.baud 0
+
+Set OK
+> Success
+> 115200
+> 
+Sending REM Heartbeat
+TransactionID 4097
+Data->Transmit (2): ff ff ff ff ff 01 ff ff ff ff 01 0c 01 10 5c 00 00 00 32 7c 
+Retry... # 0
+Setting default baud...
+Command->Transmit: set uart.baud 0 9600
+
+Command->Transmit: uart_update 0
+
+Command->Transmit: get uart.baud 0
+
+Retry... # 1
+Setting default baud...
+Command->Transmit: set uart.baud 0 9600
+
+Command->Transmit: uart_update 0
+
+Command->Transmit: get uart.baud 0
+
+Retry... # 2
+Setting default baud...
+Command->Transmit: set uart.baud 0 9600
+
+Command->Transmit: uart_update 0
+
+Command->Transmit: get uart.baud 0
+
+Set OK
+> 
+Success
+> 9600
+> Set OK
+> Success
+> 9600
+> 
+RETRRRRRYRYRYYR
+Dongle Break Start...
+Data->Transmit: M
+Command->Transmit: uart_break 17 uart0 100
+
+Set OK
+> Success
+> 9600
+> 
+RETRRRRRYRYRYYR
+Dongle Break Start...
+Data->Transmit: M
+Command->Transmit: uart_break 17 uart0 100
+
+Success
+> 
+Success
+> 

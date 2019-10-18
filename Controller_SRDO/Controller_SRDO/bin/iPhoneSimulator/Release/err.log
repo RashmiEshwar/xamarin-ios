@@ -1,0 +1,14 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-07-23 22:02:37.995832+0530 Controller_SRDO[7619:2336642] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=7619
+2019-07-23 22:02:37.996363+0530 Controller_SRDO[7619:2336642] SecTaskCopyDebugDescription: Controller_SRDO[7619]/0#-1 LF=0
+2019-07-23 22:02:38.338425+0530 Controller_SRDO[7619:2336642] 192.168.100.50
+2019-07-23 22:02:38.339724+0530 Controller_SRDO[7619:2336642] 169.254.133.118
+2019-07-23 22:02:38.350897+0530 Controller_SRDO[7619:2336642] Presenting view controllers on detached view controllers is discouraged <ViewController: 0x7fde2a6092e0>.
+2019-07-23 22:02:38.389620+0530 Controller_SRDO[7619:2336642] [] -[NWConcrete_nw_address_endpoint initWithAddress:overridePort:] Changing endpoint address length from 28 to 16, too long for family AF_INET
+2019-07-23 22:02:38.389832+0530 Controller_SRDO[7619:2336642] [] -[NWConcrete_nw_address_endpoint initWithAddress:overridePort:] Fixing endpoint address with non-zero sin_zero field
+2019-07-23 22:02:49.280071+0530 Controller_SRDO[7619:2336642] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=7619
+2019-07-23 22:02:49.280341+0530 Controller_SRDO[7619:2336642] SecTaskCopyDebugDescription: Controller_SRDO[7619]/0#-1 LF=0
+2019-07-23 22:02:51.287722+0530 Controller_SRDO[7619:2336642] System.NullReferenceException: Object reference not set to an instance of an object
+  at Controller_SRDO.ViewController+<Command>d__22.MoveNext () [0x00038] in <6d819a6b38cf4ba78b96b1c4c66d9685>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at Controller_SRDO.ViewController+<SendButton_TouchUpInside>d__57.MoveNext () [0x00157] in <6d819a6b38cf4ba78b96b1c4c66d9685>:0

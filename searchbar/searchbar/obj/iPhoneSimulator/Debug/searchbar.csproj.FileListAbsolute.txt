@@ -1,0 +1,12 @@
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/searchbar.csprojAssemblyReference.cache
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/searchbar.csproj.CoreCompileInputs.cache
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/bin/iPhoneSimulator/Debug/searchbar.exe
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/bin/iPhoneSimulator/Debug/searchbar.pdb
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/searchbar.exe
+/Users/testuser/Desktop/Rashmi/searchbar/searchbar/obj/iPhoneSimulator/Debug/searchbar.pdb

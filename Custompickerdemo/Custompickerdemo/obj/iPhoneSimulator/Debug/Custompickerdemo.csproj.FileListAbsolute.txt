@@ -1,0 +1,13 @@
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/bin/iPhoneSimulator/Debug/Custompickerdemo.exe
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/bin/iPhoneSimulator/Debug/Custompickerdemo.pdb
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/Custompickerdemo.csproj.CoreCompileInputs.cache
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/Custompickerdemo.exe
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/Custompickerdemo.pdb
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/DropDown.png
+/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/obj/iPhoneSimulator/Debug/Custompickerdemo.csprojAssemblyReference.cache

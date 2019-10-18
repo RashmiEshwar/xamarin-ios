@@ -1,0 +1,57 @@
+2017-08-16 15:34:39.052 ServiceTool[32851:17786353] 2017-08-16T19:34:39.0520290Z:  - TokenCache.cs: Serializing token cache with 1 items.
+2017-08-16 15:34:40.097 ServiceTool[32851:17786353] Network
+2017-08-16 15:34:41.235 ServiceTool[32851:17786353] 10.10.10.3
+2017-08-16 15:34:41.237 ServiceTool[32851:17786353] Data - Connect
+Thread started: <Thread Pool> #11
+2017-08-16 15:34:41.259 ServiceTool[32851:17786353] Command - Connect
+2017-08-16 15:34:41.320 ServiceTool[32851:17786353] > 
+2017-08-16 15:34:41.321 ServiceTool[32851:17786353] Setting 9600 baud...
+2017-08-16 15:34:41.322 ServiceTool[32851:17786353] Command - Sending Data: set uart.baud 0 9600
+
+2017-08-16 15:34:41.325 ServiceTool[32851:17786353] Command - Sending Data: uart_update 0
+
+2017-08-16 15:34:41.326 ServiceTool[32851:17786353] Command - Sending Data: get uart.baud 0
+
+2017-08-16 15:34:41.429 ServiceTool[32851:17786353] Set OK
+> Success
+> 9600
+> 
+2017-08-16 15:34:41.430 ServiceTool[32851:17786353] Switching Port Speed...
+2017-08-16 15:34:41.433 ServiceTool[32851:17786353] Enter Command Mode...
+2017-08-16 15:34:41.435 ServiceTool[32851:17786353] Data - Sending Data: M
+2017-08-16 15:34:41.487 ServiceTool[32851:17786353] Send Break Command...
+2017-08-16 15:34:41.487 ServiceTool[32851:17786353] Command - Sending Data: uart_break 17 uart0 100
+
+2017-08-16 15:34:41.667 ServiceTool[32851:17786353] Success
+> 
+2017-08-16 15:34:42.490 ServiceTool[32851:17786353] Carriage Return...
+2017-08-16 15:34:42.492 ServiceTool[32851:17786353] Data - Sending Data: 0D
+2017-08-16 15:34:42.520 ServiceTool[32851:17786353] 1B 5B 48 20 20 6C
+2017-08-16 15:34:42.530 ServiceTool[32851:17786353] 6F 63 61 6C 20 53 56 54 20 20 20 20 20
+2017-08-16 15:34:42.545 ServiceTool[32851:17786353] 0D 0A 20 20 64 69 73 63 6F 6E 6E 65 63
+2017-08-16 15:34:42.560 ServiceTool[32851:17786353] 74 65 64 20 20
+2017-08-16 15:34:42.695 ServiceTool[32851:17786353] MM...
+2017-08-16 15:34:42.695 ServiceTool[32851:17786353] Data - Sending Data: MM
+2017-08-16 15:34:42.696 ServiceTool[32851:17786353] SVT Logon...
+2017-08-16 15:34:42.697 ServiceTool[32851:17786353] Data - Sending Data: 0D
+2017-08-16 15:34:42.698 ServiceTool[32851:17786353] SVT Escape Sequence...
+2017-08-16 15:34:42.698 ServiceTool[32851:17786353] Data - Sending Data: 1B 5B 79
+2017-08-16 15:34:42.710 ServiceTool[32851:17786353] 1B
+2017-08-16 15:34:42.726 ServiceTool[32851:17786353] 5B 79
+2017-08-16 15:34:42.727 ServiceTool[32851:17786353] Escape Response Received
+2017-08-16 15:34:42.729 ServiceTool[32851:17786353] Setting GECB REM baud rate...
+2017-08-16 15:34:42.729 ServiceTool[32851:17786353] Command - Sending Data: set uart.baud 0 115200
+
+2017-08-16 15:34:42.731 ServiceTool[32851:17786353] Command - Sending Data: uart_update 0
+
+2017-08-16 15:34:42.732 ServiceTool[32851:17786353] Command - Sending Data: get uart.baud 0
+
+2017-08-16 15:34:42.848 ServiceTool[32851:17786353] Set OK
+> Success
+> 115200
+> 
+2017-08-16 15:34:43.338 ServiceTool[32851:17786353] Data - Sending Data: C0 FF FF FF FF FF 01 FF FF FF FF 01 0C 01 10 5C 00 00 00 32 7C DB
+2017-08-16 15:34:43.464 ServiceTool[32851:17786353] C0 FF FF FF FF 01 0C FE FE
+2017-08-16 15:34:43.518 ServiceTool[32851:17786353] FE 00 01 13 B0 17 5D 00 00 00 54 6D C0
+2017-08-16 15:34:46.388 ServiceTool[32851:17786353] C0 FF FF FF FF FF 01 FE FE FE 00 01 13 B1 17 5C 00 06 00 FF FF FF FF FF FF 1F E5 C0
+

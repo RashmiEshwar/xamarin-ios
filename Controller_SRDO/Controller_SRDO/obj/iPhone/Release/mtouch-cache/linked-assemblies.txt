@@ -1,0 +1,16 @@
+RemoveDynamicRegistrar:true
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Controller_SRDO.exe
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Mono.Security.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.Xml.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.Core.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/ZkipLibrary.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Newtonsoft.Json.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.Data.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.Numerics.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/OpenTK-1.0.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.Runtime.Serialization.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.Web.Services.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.app:/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.Xml.Linq.dll

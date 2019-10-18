@@ -1,0 +1,14 @@
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/Customcheckboxdemo.csprojAssemblyReference.cache
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/Customcheckboxdemo.csproj.CoreCompileInputs.cache
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/bin/iPhoneSimulator/Debug/Customcheckboxdemo.exe
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/bin/iPhoneSimulator/Debug/Customcheckboxdemo.pdb
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/bin/iPhoneSimulator/Debug/SaturdayMP.XPlugins.iOS.BEMCheckBox.dll
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/Customcheckboxdemo.csproj.CopyComplete
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/Customcheckboxdemo.exe
+/Users/testuser/Desktop/Rashmi/Customcheckboxdemo/Customcheckboxdemo/obj/iPhoneSimulator/Debug/Customcheckboxdemo.pdb

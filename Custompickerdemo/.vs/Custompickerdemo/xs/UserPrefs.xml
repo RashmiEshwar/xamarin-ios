@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{AD8EB7B5-415E-491D-A3D5-4FB3DABE72B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Custompickerdemo/PickerModel.cs">
+    <Files>
+      <File FileName="Custompickerdemo/AppDelegate.cs" Line="13" Column="1" />
+      <File FileName="Custompickerdemo/ViewController.cs" Line="67" Column="1" />
+      <File FileName="Custompickerdemo/TableViewSource.cs" Line="31" Column="16" />
+      <File FileName="Custompickerdemo/TextViewController.cs" Line="40" Column="52" />
+      <File FileName="Custompickerdemo/Main.cs" Line="12" Column="1" />
+      <File FileName="Custompickerdemo/CustomViewSource.cs" Line="33" Column="32" />
+      <File FileName="../../../Downloads/:Users:testuser:Desktop:Rashmi:Custompickerdemo:Custompickerdemo:PickerViewCell.cs" Line="19" Column="11" />
+      <File FileName="Custompickerdemo/PickerViewCell.cs" Line="12" Column="6" />
+      <File FileName="Custompickerdemo/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Custompickerdemo/Main.storyboard" />
+      <File FileName="Custompickerdemo/PickerViewCell.designer.cs" Line="1" Column="1" />
+      <File FileName="Custompickerdemo/TableCell.cs" Line="24" Column="1" />
+      <File FileName="Custompickerdemo/TableCell.designer.cs" Line="1" Column="1" />
+      <File FileName="Custompickerdemo/TableDataCell.cs" Line="1" Column="1" />
+      <File FileName="Custompickerdemo/PickerModel.cs" Line="32" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Custompickerdemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D960D88-691F-4094-B1CB-E9519E755AD9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Custompickerdemo>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewSource.cs" relfile="Custompickerdemo/TableViewSource.cs" line="140" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewSource.cs" relfile="Custompickerdemo/TableViewSource.cs" line="141" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewSource.cs" relfile="Custompickerdemo/TableViewSource.cs" line="147" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewSource.cs" relfile="Custompickerdemo/TableViewSource.cs" line="138" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewSource.cs" relfile="Custompickerdemo/TableViewSource.cs" line="157" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewSource.cs" relfile="Custompickerdemo/TableViewSource.cs" line="164" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewSource.cs" relfile="Custompickerdemo/TableViewSource.cs" line="165" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewCell.cs" relfile="Custompickerdemo/TableViewCell.cs" line="28" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/TableViewCell.cs" relfile="Custompickerdemo/TableViewCell.cs" line="29" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerViewCell.cs" relfile="Custompickerdemo/PickerViewCell.cs" line="87" column="22" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerViewCell.cs" relfile="Custompickerdemo/PickerViewCell.cs" line="91" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerViewCell.cs" relfile="Custompickerdemo/PickerViewCell.cs" line="92" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="17" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="16" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="50" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="51" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="52" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="57" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="61" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="76" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerModel.cs" relfile="Custompickerdemo/PickerModel.cs" line="56" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/ViewController.cs" relfile="Custompickerdemo/ViewController.cs" line="61" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/PickerViewCell.cs" relfile="Custompickerdemo/PickerViewCell.cs" line="46" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/CustomViewSource.cs" relfile="Custompickerdemo/CustomViewSource.cs" line="33" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/CustomViewSource.cs" relfile="Custompickerdemo/CustomViewSource.cs" line="18" column="62" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/CustomViewSource.cs" relfile="Custompickerdemo/CustomViewSource.cs" line="19" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/CustomViewSource.cs" relfile="Custompickerdemo/CustomViewSource.cs" line="21" column="1" />
+      <Breakpoint file="/Users/testuser/Desktop/Rashmi/Custompickerdemo/Custompickerdemo/ViewController.cs" relfile="Custompickerdemo/ViewController.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

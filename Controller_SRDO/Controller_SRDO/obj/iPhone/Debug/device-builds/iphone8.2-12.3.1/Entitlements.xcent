@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>CL3Z7YF24R.com.otis.componentinterface</string>
+	<key>get-task-allow</key>
+	<false/>
+	<key>com.apple.developer.team-identifier</key>
+	<string>CL3Z7YF24R</string>
+</dict>
+</plist>

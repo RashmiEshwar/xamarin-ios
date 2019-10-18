@@ -1,0 +1,15 @@
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Controller_SRDO.exe
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Newtonsoft.Json.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Xamarin.Essentials.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/Xamarin.Essentials.pdb
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/bin/iPhone/Release/ZkipLibrary.dll
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/coremlc/_PartialAppManifest.items
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/optimized/
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/Controller_SRDO.csproj.CoreCompileInputs.cache
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/Controller_SRDO.csproj.CopyComplete
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/Controller_SRDO.exe
+/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/Controller_SRDO.csprojAssemblyReference.cache

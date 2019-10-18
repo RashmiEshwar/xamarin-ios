@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{92BC1D02-2259-446A-877A-01B9E90A329A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Customcheckboxdemo/DynamicCell.cs">
+    <Files>
+      <File FileName="Customcheckboxdemo/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Customcheckboxdemo/Main.storyboard" />
+      <File FileName="Customcheckboxdemo/LaunchScreen.storyboard" />
+      <File FileName="Customcheckboxdemo/DynamicCell.cs" Line="13" Column="31" />
+      <File FileName="Customcheckboxdemo/ViewController.cs" Line="18" Column="35" />
+      <File FileName="Customcheckboxdemo/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Customcheckboxdemo/TableSource.cs" Line="39" Column="43" />
+      <File FileName="Customcheckboxdemo/Customchecbox.cs" Line="17" Column="7" />
+      <File FileName="Customcheckboxdemo/DynamicCell.designer.cs" Line="1" Column="1" />
+      <File FileName="Customcheckboxdemo/Entitlements.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Customcheckboxdemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D960D88-691F-4094-B1CB-E9519E755AD9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Customcheckboxdemo>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

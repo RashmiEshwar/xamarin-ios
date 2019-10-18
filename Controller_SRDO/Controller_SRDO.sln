@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller_SRDO", "Controller_SRDO\Controller_SRDO.csproj", "{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1688BE0E-3B9D-49E5-8D8E-2044FB50393A}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal

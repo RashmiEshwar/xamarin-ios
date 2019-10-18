@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5797362E-20CC-43C7-ABD7-04CF17ECC6D8}|Default">
+  <MonoDevelop.Ide.ItemProperties.searchbar PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D960D88-691F-4094-B1CB-E9519E755AD9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.searchbar>
+  <MonoDevelop.Ide.Workbench ActiveDocument="searchbar/Main.storyboard">
+    <Files>
+      <File FileName="searchbar/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="searchbar/ViewController.cs" Line="42" Column="44" />
+      <File FileName="searchbar/Main.storyboard" />
+      <File FileName="searchbar/TableSource.cs" Line="57" Column="47" />
+      <File FileName="searchbar/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

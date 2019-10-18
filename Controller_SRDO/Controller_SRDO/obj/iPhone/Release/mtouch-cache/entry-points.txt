@@ -1,0 +1,26 @@
+Function=xamarin_timezone_get_data
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/testuser/Desktop/Rashmi/Controller_SRDO/Controller_SRDO/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
